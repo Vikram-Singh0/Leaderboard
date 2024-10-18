@@ -1,0 +1,149 @@
+
+@import url("https://fonts.googleapis.com/css2?family=<Archivo Black>&display=swap");
+*{
+    background-color: #171D3A;
+  
+    
+    
+}
+body{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+
+.subhead {
+    font-size: 50PX;
+    color: #F598FF;
+     font-weight: 800;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 180px;
+    width: 100%;
+  
+
+}
+.Hsubhead{
+    font-size: 50PX;
+    color: #F598FF;
+     font-weight: 800;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 200px;
+
+}
+.toptxt{
+    color: #F598FF;
+    font-size: 24px;
+    font-weight: 800;
+    position: absolute;
+    left: 260px;
+    top: 38.39px;
+}
+.subhead1{
+    font-size: 50PX;
+    color: #F598FF;
+     font-weight: 800;
+    position: relative;
+    left:260px ;
+    top: 220px;
+    width: 50%;
+
+
+}
+.para1{
+    color: white;
+    width: 746.2px;
+    height: 134.31px;
+    position: absolute;
+    left: 260px;
+    top: 460px;
+}
+.Hsubhead2{
+    font-size: 50PX;
+    color: #F598FF;
+     font-weight: 800;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top:520px;
+
+}
+.paren{
+    
+ position: relative;
+
+ top: 540px;
+
+    width: 100%;
+
+}
+.subhead2{
+    font-size: 50PX;
+    color: #F598FF;
+     font-weight: 800;
+
+    margin-left: 260px;
+
+
+}
+.para2{
+    color: white;
+    width: 746.2px;
+    height: 134.31px;
+    position: absolute;
+    left: 260px;
+    top: 933px;
+}
+.memberImg{
+    position: relative;
+    left: 1025px;
+    top: -35px;
+
+
+    height: 420px;
+    width: 340px;
+    border-radius: 30px;
+  
+}
+.clubImg{
+    height: 300px;
+    width: 400px;
+    border-radius: 30px;
+    position: relative;
+    left:677px;
+    top: 382px;
+
+    
+    
+
+}
+.foot{
+    height: 60px;
+    width: 100%;
+    background-color: #94ABF9;
+    position: absolute;
+    top: 1200px; ;
+    text-align: center;
+    justify-content: center;
+    padding-top: 19px;
+}
+.navbar a {
+    color: #F598FF;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+   
+}
+.navbar{
+    display: flex;
+    padding: 10px;
+    width: 468px;
+    height: 27.19px;
+    position: relative;
+    left: 926px;
+    top: -767px;
+}
